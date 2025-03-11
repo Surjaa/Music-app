@@ -6,6 +6,7 @@
 }
 
 body {
+  background-image: url("/public/background-logo.jpg");
   padding: 20px;
   color: whitesmoke;
   background-color: #000000;
