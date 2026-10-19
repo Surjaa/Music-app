@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Mauj Music",
+  "short_name": "Mauj",
+  "description": "Mauj: music and video player with sample instrumentals and ringtones, plus your own files.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F5F2EC",
+  "theme_color": "#F5F2EC",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
